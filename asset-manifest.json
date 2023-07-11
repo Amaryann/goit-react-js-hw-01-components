@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Amaryann/goit-react-js-hw-01-components/static/css/main.9014db70.css",
-    "main.js": "/Amaryann/goit-react-js-hw-01-components/static/js/main.e1424176.js",
-    "index.html": "/Amaryann/goit-react-js-hw-01-components/index.html",
-    "main.9014db70.css.map": "/Amaryann/goit-react-js-hw-01-components/static/css/main.9014db70.css.map",
-    "main.e1424176.js.map": "/Amaryann/goit-react-js-hw-01-components/static/js/main.e1424176.js.map"
+    "main.css": "/goit-react-js-hw-01-components/static/css/main.9014db70.css",
+    "main.js": "/goit-react-js-hw-01-components/static/js/main.e1424176.js",
+    "index.html": "/goit-react-js-hw-01-components/index.html",
+    "main.9014db70.css.map": "/goit-react-js-hw-01-components/static/css/main.9014db70.css.map",
+    "main.e1424176.js.map": "/goit-react-js-hw-01-components/static/js/main.e1424176.js.map"
   },
   "entrypoints": [
     "static/css/main.9014db70.css",
